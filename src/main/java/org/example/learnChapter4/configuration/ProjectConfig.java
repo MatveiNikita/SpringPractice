@@ -5,6 +5,6 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @ComponentScan(basePackages =
-        { "org/example/proxies, org/example/repositories, org/example/servece"})
+        { "org/example/learnChapter4/proxies, org/example/learnChapter4/repository, org/example/learnChapter4/service"})
 public class ProjectConfig {
 }
