@@ -1,8 +1,9 @@
-package org.example;
+package org.example.learnChapter4;
 
-import org.example.configuration.ProjectConfig;
-import org.example.model.Comment;
-import org.example.servece.CommentService;
+
+import org.example.learnChapter4.configuration.ProjectConfig;
+import org.example.learnChapter4.model.Comment;
+import org.example.learnChapter4.service.CommentService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {

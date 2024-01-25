@@ -1,4 +1,4 @@
-package org.example.model;
+package org.example.learnChapter4.model;
 
 public class Comment {
     private String authorName;
